@@ -1,1 +1,1 @@
-# Simple-calculator
+# Assignment-2
